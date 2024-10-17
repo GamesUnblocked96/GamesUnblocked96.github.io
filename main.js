@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
-        '#111E2C',          // Default primary color
-        '#58AAFC',          // Default secondary color
+        'https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?cs=srgb&dl=pexels-jplenio-1103970.jpg&fm=jpg',  // Default background image
+        '#0E3756',          // Default primary color
+        '#FDFBED',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
